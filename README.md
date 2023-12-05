@@ -1,6 +1,8 @@
 # replit-vless
 https://replit.com/  replit平台创建vless节点  （每个月10G流量） 留着备用吧 
 
+删除自带里面的所有文件
+
      UUID：   8545d0b4-a15f-40f0-b2c8-1e222dcbe562
      
 
